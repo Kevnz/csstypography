@@ -1,0 +1,34 @@
+{
+  "name": "pure-typography",
+  "version": "1.0.0",
+  "description": "Typography styles for pure",
+  "main": "./css/pure-typography.css",
+  "style": "./css/pure-typography.css",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kevnz/csstypography.git"
+  },
+  "keywords": [
+    "purecss",
+    "css",
+    "styles",
+    "typography"
+  ],
+  "author": "Kevin Isom <kevin.isom@gmail.com>",
+  "license": "Open",
+  "bugs": {
+    "url": "https://github.com/Kevnz/csstypography/issues"
+  },
+  "homepage": "https://github.com/Kevnz/csstypography",
+  "devDependencies": {
+    "purecss": "^0.6.0",
+    "static-cling": "^0.1.6"
+  }
+}
