@@ -9,7 +9,7 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "node deploy"
   },
   "repository": {
     "type": "git",
