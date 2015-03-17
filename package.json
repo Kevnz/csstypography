@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/Kevnz/csstypography",
   "devDependencies": {
+    "gh-pages": "^0.2.0",
     "purecss": "^0.6.0",
     "static-cling": "^0.1.6"
   }
